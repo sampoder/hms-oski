@@ -21,6 +21,16 @@ When there's a protest and Sather Gate is blocked, students have to go through S
 
 Originally, I was going to define this as going from the start to the end of the main fork. However, I don't want to distrub the natural areas so instead I'm going to define the "start" as [the bridge just south of Moses Hall](https://maps.app.goo.gl/5gNNp6LmsLej8RKr5) and the end as [the bridge near Haas Pavilion](https://maps.app.goo.gl/ecUx1sd5Ywh5a3R78)
 
+## What defines a boat?
+
+* It must float.
+* It must be possible for an adult human to sit in it.
+* It must move in water.
+
+## Why won't a normal boat work...
+
+...well, Strawberry Creek is very very shallow and very rocky. At some points, there's basically no water in it. So we essentially will need to make a mini [DUKW](https://en.wikipedia.org/wiki/DUKW). Yes, that's a bit of a cop out but it's the only way.
+
 ## Plan / Shopping List
 
 TBD
